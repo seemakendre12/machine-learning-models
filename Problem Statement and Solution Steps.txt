@@ -1,0 +1,24 @@
+
+Problem Statement - 
+-  Need proper Exploratory Data Analysis for Inference as well as Historical Pattern and Analysis (Can Use Tableau/Python any tool)
+-  Need a Prediction Model to predict the House Prices. (In Python - Best Model Should be saved/ Required Model Diaginistics in proper report in Word)
+-  Test Data can be taken as those data where property is NA
+-  Output Predicted Table needs to be stored in MySQL.
+-  Final Dashboard has to be prepared Using Tableau (Desktop -  Downlaod the trail version - connect to MYSQl) with proper graphs.
+
+##### Require Proper prsentation of the Project with proper Inference, Coding and Output Analysis.
+##### Tools Can be Used  - Python, Tableau, SQL, Excel, Notion.io
+
+##### Report of the Entire Case Study should be properly Built in Word Format. Low Level Document (LLD) has to be prepeared with every minute details of the study.
+##### Last Date of Submission of the Project  -  31st June,2023
+####### Submission - 
+
+1. Jupyter Notebook (Model Code) -  Format .html
+2. Tableau Workbook (Output Data Analysis Report) - .twbx
+3. Model Diagonistic Report - Word
+4. LLD Report -  Word (Screenshot of the temp_table created in Mysql is must)
+5. Presentation of the Case Study - .pptx
+
+All needs to be Zipped and mailed  - pbose@topmentor.in
+
+

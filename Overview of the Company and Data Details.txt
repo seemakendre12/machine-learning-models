@@ -1,0 +1,50 @@
+########### Capstone Project  ################### 
+########### Batch - 62 ##########################
+
+Overview of the Company - 
+Makaan.com has quickly emerged as the preferred partner for consumers looking to rent, buy or sell a home. 
+Makaan.com offers its online consumers maximum property options and has become one of the largest advertising platforms in online real estate in India.
+
+Table -1 details (Details about the properties/different features)
+
+Property_Name	
+Property_id	
+Property_type	
+Property_status	
+Price_per_unit_area	
+Posted_On	
+Project_URL	
+builder_id	
+Builder_name	
+Property_building_status	
+City_id	City_name	
+No_of_BHK	
+Locality_ID	
+Locality_Name	
+Longitude	
+Latitude	
+Price	
+Size	
+Sub_urban_ID	
+Sub_urban_name	
+description	
+is_furnished	
+listing_domain_score	
+is_plot	is_RERA_registered	
+is_Apartment	
+is_ready_to_move	
+is_commercial_Listing	
+is_PentaHouse	
+is_studio	
+Listing_Category
+
+Table -2 Makaan_property_location_details
+
+Property_id	
+City_id	City_name	
+Locality_ID	
+Locality_Name	
+Longitude	
+Latitude	
+Sub_urban_ID	
+Sub_urban_name
